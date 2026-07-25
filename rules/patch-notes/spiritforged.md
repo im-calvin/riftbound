@@ -3,13 +3,7 @@
 > Source: https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-core-rules-spiritforged-patch-notes/
 > Fetched: 2026-07-25 (snapshot).
 
-## Create One
-
-## Sign In
-
 ## Riftbound Core Rules: Spiritforged Patch Notes
-
-## Rules and Releases
 
 ### Spiritforged Rules Patch Notes
 Welcome to the Patch Notes for Riftbound, Spiritforged edition. Today we are going to be updating the Core Rules to support our newest expansion, Spiritforged! Included in today’s update are system clarifications, fixes to a few logical errors, and the new rules required to play with the mechanics included in the Spiritforged expansion.
@@ -207,61 +201,3 @@ its Might bonus” is the same as saying it “gives twice its Might bonus.”)
 
 - CLARIFIED: Various housekeeping and updates to language across the document, including adjusting
 or removing examples that are no longer accurate
-
-## Related Articles
-
-## Unleashed Rules FAQ and Clarifications
-
-## Rules and Releases
-
-## Riftbound
-
-## Unleashed Errata Updates
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Unleashed Patch Notes
-
-## Rules and Releases
-
-## Riftbound
-
-## Tournament Rules, January Update
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Spiritforged FAQ
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Spiritforged Errata
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound: Origins Card Errata
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Patch Notes
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Tournament Rules
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Spiritforged Patch Notes

@@ -29,7 +29,7 @@ Resolve every question top-down. A higher tier overrides a lower one whenever th
 ## Answer procedure
 
 1. **Read `rulings/overrides.md` first** (Grep/Read it for the relevant card names and rule terms). If a taught ruling matches, that is your answer — cite the override and stop.
-2. **Search the bundled rules.** Grep `rules/` by card name, keyword (e.g. "Empower", "Hidden", "chain", "focus"), or rule section number. Read the surrounding sections for full context.
+2. **Search the bundled rules.** Grep `rules/` by card name, keyword (e.g. "Empower", "Hidden", "chain", "focus"), or rule section number, then Read the surrounding sections for full context. `rules/core-rules.md` is large (over the full-file Read cap) — always Grep it and Read by line offset around the hits; never conclude the rules are "silent" just because a whole-file Read failed.
 3. **Apply errata and patch notes on top of base text** before you answer. Check `rules/errata/*` for the exact card, and `rules/patch-notes/*` for changed rules. Use the newest wording.
 4. **If the bundled rules are silent, ambiguous, or you are not confident → look it up live.** Check official pages first, then Riftbound FAQ (https://www.riftboundfaq.com/), then RiftJudge (prefer human-verified), then Reddit. Fetch the page and read it; don't answer from a search snippet alone.
 5. **If it's still unresolved,** say so plainly and recommend escalation to a head judge or an official channel. Do not invent a ruling.

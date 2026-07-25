@@ -3,13 +3,7 @@
 > Source: https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-core-rules-patch-notes/
 > Fetched: 2026-07-25 (snapshot).
 
-## Create One
-
-## Sign In
-
 ## Riftbound Core Rules: Patch Notes
-
-## Rules and Releases
 
 Welcome to Riftbound’s first official Rules Update Patch! This will be a big one—not necessarily because of
 the volume of changes or shifts in how players playing already are going to be interacting with the game, but
@@ -459,61 +453,3 @@ activated ability.
 - CLARIFIED: Recalls do not affect the state of the object.
 
 - CLARIFIED: Recalls are not moves.
-
-## Related Articles
-
-## Unleashed Rules FAQ and Clarifications
-
-## Rules and Releases
-
-## Riftbound
-
-## Unleashed Errata Updates
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Unleashed Patch Notes
-
-## Rules and Releases
-
-## Riftbound
-
-## Tournament Rules, January Update
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Spiritforged FAQ
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Spiritforged Errata
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Spiritforged Patch Notes
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound: Origins Card Errata
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Tournament Rules
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Patch Notes

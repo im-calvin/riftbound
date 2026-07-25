@@ -3,13 +3,7 @@
 > Source: https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/
 > Fetched: 2026-07-25 (snapshot).
 
-## Create One
-
-## Sign In
-
 ## Riftbound: Origins Card Errata
-
-## Rules and Releases
 
 [Download Card Errata]
 
@@ -452,61 +446,3 @@ If a friendly unit would die, kill this instead. Heal that unit, exhaust it, and
 [Hidden] (Hide now for [A] to react with later for [0].)
 
 The next time a friendly unit would die, kill this instead. Recall that unit exhausted. (Send it to base. This isn't a move.)
-
-## Related Articles
-
-## Unleashed Rules FAQ and Clarifications
-
-## Rules and Releases
-
-## Riftbound
-
-## Unleashed Errata Updates
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Unleashed Patch Notes
-
-## Rules and Releases
-
-## Riftbound
-
-## Tournament Rules, January Update
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Spiritforged FAQ
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Spiritforged Errata
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Spiritforged Patch Notes
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Patch Notes
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Tournament Rules
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound: Origins Card Errata

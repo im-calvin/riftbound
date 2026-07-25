@@ -3,13 +3,7 @@
 > Source: https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/
 > Fetched: 2026-07-25 (snapshot).
 
-## Create One
-
-## Sign In
-
 ## Riftbound Spiritforged Errata
-
-## Rules and Releases
 
 [Download Card Errata]
 
@@ -290,61 +284,3 @@ When I conquer a battlefield that was uncontrolled, deal damage equal to my Migh
 [Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for [A] less, even if it's already attached.)
 
 When I conquer an open battlefield, deal damage equal to my Might to an enemy unit in a base.
-
-## Related Articles
-
-## Unleashed Rules FAQ and Clarifications
-
-## Rules and Releases
-
-## Riftbound
-
-## Unleashed Errata Updates
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Unleashed Patch Notes
-
-## Rules and Releases
-
-## Riftbound
-
-## Tournament Rules, January Update
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Spiritforged FAQ
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Spiritforged Patch Notes
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound: Origins Card Errata
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Patch Notes
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Tournament Rules
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Spiritforged Errata

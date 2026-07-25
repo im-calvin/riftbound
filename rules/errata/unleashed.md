@@ -3,13 +3,7 @@
 > Source: https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/
 > Fetched: 2026-07-25 (snapshot).
 
-## Create One
-
-## Sign In
-
 ## Unleashed Errata Updates
-
-## Rules and Releases
 
 Hey Riftbounders!
 We’ve got some fresh card errata for you today, covering cards from both Spiritforged and Unleashed. If you’re just starting Riftbound, or new to TCGs, card errata refers to any updates to card text after a card was printed. We do this to make cards more easily understood and to clarify how they work within the rules of the game.
@@ -86,61 +80,3 @@ I can [Ambush] to a battlefield where there are enemy units, even if you don't h
 [OLD TEXT]
 [Ambush] (You may play me as a [Reaction] to a battlefield where you have units.)
 I can be played to a battlefield where there are enemy units (even if you don't have units there).
-
-## Related Articles
-
-## Unleashed Rules FAQ and Clarifications
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Unleashed Patch Notes
-
-## Rules and Releases
-
-## Riftbound
-
-## Tournament Rules, January Update
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Spiritforged FAQ
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Spiritforged Errata
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Spiritforged Patch Notes
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound: Origins Card Errata
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Patch Notes
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Tournament Rules
-
-## Rules and Releases
-
-## Riftbound
-
-## Unleashed Errata Updates

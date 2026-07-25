@@ -3,13 +3,7 @@
 > Source: https://playriftbound.com/en-us/news/announcements/vendetta-errata-updates
 > Fetched: 2026-07-25 (snapshot).
 
-## Create One
-
-## Sign In
-
 ## Vendetta Errata Updates
-
-## Announcements
 
 Hey Riftbounders!
 We’ve got some fresh card errata for you today, covering cards from Spiritforged, Unleashed and Vendetta. If you’re just starting Riftbound, or new to TCGs, card errata refers to any updates to card text after a card was printed. We do this to make cards more easily understood and to clarify how they work within the rules of the game.
@@ -94,61 +88,3 @@ Choose a battlefield you control and a unit you control at a different location.
 [Hidden] (Hide now for [A] to react with later for [0].)
 [Reaction] (Play on your turn or in showdowns.)
 Choose a battlefield you control and a unit you control at a different location. Move that unit to that battlefield and give it +2 [S] this turn.
-
-## Related Articles
-
-## Preparing for the Vendetta Pre-Rift
-
-## Announcements
-
-## Riftbound
-
-## Riftbound: Vendetta, Wild Rift, and You!
-
-## Announcements
-
-## Riftbound
-
-## Riftbound at Gen Con 2026
-
-## Announcements
-
-## Riftbound
-
-## Core Rules: Vendetta Patch Notes
-
-## Announcements
-
-## Riftbound
-
-## July Ban List Updates
-
-## Announcements
-
-## Riftbound
-
-## A Note on Vendetta Card Images
-
-## Announcements
-
-## Riftbound
-
-## July 2026 Tournament Rules Update & Changelog
-
-## Announcements
-
-## Riftbound
-
-## Rules Hub
-
-## Announcements
-
-## Riftbound
-
-## The Vendetta Begins
-
-## Announcements
-
-## Riftbound
-
-## Vendetta Errata Updates

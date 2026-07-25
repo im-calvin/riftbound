@@ -3,13 +3,7 @@
 > Source: https://playriftbound.com/en-us/news/announcements/core-rules-vendetta-patch-notes
 > Fetched: 2026-07-25 (snapshot).
 
-## Create One
-
-## Sign In
-
 ## Core Rules: Vendetta Patch Notes
-
-## Announcements
 
 Welcome to the patch notes for Riftbound: Vendetta. Included in today’s update are the new rules required to play with the mechanics included in the Vendetta set, as well as fixes to many logical and procedural errors.
 Our first goal for this rules update is primarily to support the new cards in Vendetta when it releases to the English & Chinese audiences simultaneously! Compared to the Unleashed rules update, we’re focusing more of our energy on the new rules and systems for Vendetta than updates and changes to the overall mechanics of the game. We still have numerous bug fixes and areas of the rules that have been clarified and improved, but it is a smaller focus than it was in the Unleashed rules update.
@@ -161,61 +155,3 @@ I’m Getting Activated
 
 Accelerate
 - In the Unleashed FAQ, we clarified that Accelerate is an ability made up of two parts: an optional additional cost, and a delayed replacement effect that is generated when you pay the cost. This has now been reflected in the rules themselves.- CLARIFIED RULE: Paying the accelerate cost generates a delayed Replacement Effect. Even if the unit loses the accelerate keyword during the finalization process, as long as the cost was paid, that unit will still enter ready.
-
-## Related Articles
-
-## Vendetta Errata Updates
-
-## Announcements
-
-## Riftbound
-
-## Preparing for the Vendetta Pre-Rift
-
-## Announcements
-
-## Riftbound
-
-## Riftbound: Vendetta, Wild Rift, and You!
-
-## Announcements
-
-## Riftbound
-
-## Riftbound at Gen Con 2026
-
-## Announcements
-
-## Riftbound
-
-## July Ban List Updates
-
-## Announcements
-
-## Riftbound
-
-## A Note on Vendetta Card Images
-
-## Announcements
-
-## Riftbound
-
-## July 2026 Tournament Rules Update & Changelog
-
-## Announcements
-
-## Riftbound
-
-## Rules Hub
-
-## Announcements
-
-## Riftbound
-
-## The Vendetta Begins
-
-## Announcements
-
-## Riftbound
-
-## Core Rules: Vendetta Patch Notes

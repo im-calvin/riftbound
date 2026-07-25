@@ -3,13 +3,7 @@
 > Source: https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-core-rules-unleashed-patch-notes/
 > Fetched: 2026-07-25 (snapshot).
 
-## Create One
-
-## Sign In
-
 ## Riftbound Core Rules: Unleashed Patch Notes
-
-## Rules and Releases
 
 Welcome to the Patch Notes for Riftbound, Unleashed edition. Included in today’s update are system clarifications and expansions, fixes to many logical or procedural errors, and the new rules required to play with the mechanics included in the Unleashed expansion.
 
@@ -289,61 +283,3 @@ Backline is the keyword version of the ability that both Caitlyn, Patrolling and
 - Attaching Again- Attaching as a game action was missing a rule that prevented an attached equipment from attaching to the unit it’s already attached to. This was unintuitive, and such a rule has been added to align the game action with ready, stun, and exhaust.- CLARIFIED: Attaching a card to a new Top-Most Card will cause it to Detach from the card to which it is currently Attached.
 - NEW RULE: Attaching a card to its current Top-Most Card  will not have any effect.
 - NEW RULE: If a Game Effect instructs a player to Attach a card to its current Top-Most Card, nothing additional happens.
-
-## Related Articles
-
-## Unleashed Rules FAQ and Clarifications
-
-## Rules and Releases
-
-## Riftbound
-
-## Unleashed Errata Updates
-
-## Rules and Releases
-
-## Riftbound
-
-## Tournament Rules, January Update
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Spiritforged FAQ
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Spiritforged Errata
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Spiritforged Patch Notes
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound: Origins Card Errata
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Patch Notes
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Tournament Rules
-
-## Rules and Releases
-
-## Riftbound
-
-## Riftbound Core Rules: Unleashed Patch Notes

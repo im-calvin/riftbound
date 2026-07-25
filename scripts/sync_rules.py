@@ -118,6 +118,29 @@ def html_to_text(h):
     return re.sub(r"\n{3,}", "\n\n", h).strip()
 
 
+# Heading-only lines injected by the site's nav/header — dropped from snapshots.
+CHROME_HEADINGS = {
+    "Create One", "Sign In", "Rules and Releases", "Announcements", "Riftbound",
+}
+
+
+def strip_web_chrome(text):
+    """Remove nav/header/footer chrome from a scraped page body.
+
+    Drops heading-only lines that are known site chrome, and truncates the
+    trailing "Related Articles" footer nav block that every page carries.
+    """
+    # Cut the footer nav that starts at the Related Articles block.
+    text = re.split(r"(?m)^#+\s*Related Articles\s*$", text)[0]
+    out = []
+    for line in text.split("\n"):
+        m = re.match(r"^#+\s*(.+?)\s*$", line)
+        if m and m.group(1) in CHROME_HEADINGS:
+            continue
+        out.append(line)
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(out)).strip()
+
+
 def extract_page_body(raw):
     m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', raw, re.S)
     if not m:
@@ -127,7 +150,7 @@ def extract_page_body(raw):
     collect_bodies(data.get("props", {}).get("pageProps", {}), acc)
     if not acc:
         return None
-    return "\n\n".join(html_to_text(x) for x in acc)
+    return strip_web_chrome("\n\n".join(html_to_text(x) for x in acc))
 
 
 def sync_pdfs():
