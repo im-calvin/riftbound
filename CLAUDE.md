@@ -26,9 +26,10 @@ Resolve every question top-down. A higher tier overrides a lower one whenever th
 
 1. **Read `rulings/overrides.md` first** (Grep/Read it for the relevant card names and rule terms). If a taught ruling matches, that is your answer — cite the override and stop.
 2. **Search the bundled rules.** Grep `rules/` by card name, keyword (e.g. "Empower", "Hidden", "chain", "focus"), or rule section number, then Read the surrounding sections for full context. `rules/core-rules.md` is large (over the full-file Read cap) — always Grep it and Read by line offset around the hits; never conclude the rules are "silent" just because a whole-file Read failed.
-3. **Apply errata and patch notes on top of base text** before you answer. Check `rules/errata/*` for the exact card, and `rules/patch-notes/*` for changed rules. Use the newest wording.
-4. **If the bundled rules are silent, ambiguous, or you are not confident → look it up live.** Check official pages first, then Riftbound FAQ (https://www.riftboundfaq.com/), then RiftJudge (prefer human-verified), then Reddit. Fetch the page and read it; don't answer from a search snippet alone.
-5. **If it's still unresolved,** say so plainly and recommend escalation to a head judge or an official channel. Do not invent a ruling.
+3. **Look up card text when the question names a card.** Grep `cards/cards.json` by card name for its official text, type, energy, might, domains, tags, and image URL. Quote the card's printed text — but remember **errata (tier 2) overrides printed card text**, so always check `rules/errata/*` for that card and use the NEW TEXT if it exists. If a card isn't in the snapshot, live-fetch the card gallery (see `rules/SOURCES.md`). Include the card's `image_url` in your answer when it helps.
+4. **Apply errata and patch notes on top of base text** before you answer. Check `rules/errata/*` for the exact card, and `rules/patch-notes/*` for changed rules. Use the newest wording.
+5. **If the bundled rules are silent, ambiguous, or you are not confident → look it up live.** Check official pages first, then Riftbound FAQ (https://www.riftboundfaq.com/), then RiftJudge (prefer human-verified), then Reddit. Fetch the page and read it; don't answer from a search snippet alone.
+6. **If it's still unresolved,** say so plainly and recommend escalation to a head judge or an official channel. Do not invent a ruling.
 
 Deck-legality questions → `rules/core-rules.md` §100–103 (deck construction, Domain Identity, copy limits, Signature limits) plus the relevant set's legality. Tournament/procedure/penalty questions → `rules/tournament-rules.md` (Draft format is §602.4.b).
 
@@ -77,8 +78,10 @@ rules/
   pdf/                              # original PDFs (archival source of truth)
   core-rules.md  tournament-rules.md
   patch-notes/  errata/             # extracted snapshots
+cards/cards.json                    # ~1,180 cards: name, code, set, type, energy, might, domains, tags, text, image_url
 rulings/overrides.md                # taught corrections (read first, written here)
-scripts/sync_rules.py               # re-fetch + re-extract all snapshots
+scripts/sync_rules.py               # re-fetch + re-extract all rules snapshots
+scripts/sync_cards.py               # re-fetch the card catalog -> cards/cards.json
 ```
 
-**Keeping rules current:** run `python3 scripts/sync_rules.py`, then bump the snapshot dates in `rules/SOURCES.md` and `SNAPSHOT_DATE` in the script. Re-sync when the Rules Hub shows a newer "Last updated" than the snapshots.
+**Keeping rules/cards current:** run `python3 scripts/sync_rules.py` and `python3 scripts/sync_cards.py`, then bump the snapshot dates in `rules/SOURCES.md` and the `SNAPSHOT_DATE` in each script. Re-sync rules when the Rules Hub shows a newer "Last updated"; re-sync cards when a new set releases.

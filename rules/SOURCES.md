@@ -15,6 +15,18 @@ All bundled rules snapshots and where they came from. Re-fetch when the "Last up
 | Unleashed Errata | `errata/unleashed.md` | https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/ | — | 2026-07-25 |
 | Vendetta Errata | `errata/vendetta.md` | https://playriftbound.com/en-us/news/announcements/vendetta-errata-updates | — | 2026-07-25 |
 
+## Card catalog
+
+Card data (names, text, type, energy, might, domains, tags, image URLs) is bundled at `cards/cards.json` and refreshed by `scripts/sync_cards.py`.
+
+| Source | Access | Notes |
+|--------|--------|-------|
+| Official card gallery data | `https://riftbound.leagueoflegends.com/_next/data/<buildId>/en-us/card-gallery.json` | Public, no key. `<buildId>` is scraped from `https://riftbound.leagueoflegends.com/en-us/card-gallery/`. This is the data behind [Piltover Archive](https://piltoverarchive.com/). Used by `sync_cards.py`. ~1,180 cards. |
+| Riot first-party developer API | `https://developer.riotgames.com/docs/riftbound` | **Gated** — requires app approval + API key (and RSO for gameplay apps). Serves card art, rulesets, and assets. Preferred upgrade path once you have a key; endpoints are not public until approved. |
+| Community card search | https://www.riftbound.one/ · https://www.rift.tools/ | Fast rules-text / multi-filter card search. Community, unofficial. |
+
+Card errata (`rules/errata/*`) overrides the printed text in `cards/cards.json` — apply it on top per the precedence order in `CLAUDE.md`.
+
 ## Live lookup sources (not bundled — fetched at answer time), highest trust first
 - **Official news / rules hub** — https://playriftbound.com/en-us/rules-hub/ — authoritative for anything newer than the snapshots above.
 - **Riftbound FAQ** — https://www.riftboundfaq.com/ — community FAQ built with input from experienced judges, cross-referenced to the official CRD. Preferred community source (above RiftJudge).
